@@ -144,11 +144,9 @@ I am actively seeking opportunities as a Java Developer, Backend Developer, or S
 
 ## Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: khairnaryash11152@gmail.com
 
-💼 LinkedIn: your-linkedin-profile-link
-
-🌐 GitHub: github.com/yassh1152
+💼 LinkedIn: https://www.linkedin.com/in/yashk1152
 
 ---
 
